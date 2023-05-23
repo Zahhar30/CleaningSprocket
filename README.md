@@ -21,8 +21,8 @@ Identify data quality issues in the data set : <br/>
 <img src="https://i.imgur.com/z6HOGCz.png" height="80%" width="80%" alt="Cleaning Data"/>
 <br />
 <br />
-Union the customer demo with address:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Unionize all data sets into transaction sheet :  <br/>
+<img src="https://i.imgur.com/xkVSItG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
