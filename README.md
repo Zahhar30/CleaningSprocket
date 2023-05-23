@@ -13,7 +13,6 @@ This projects goal is specify which of the 1000 customer should be targeted by t
 <h2>Tool Used</h2>
 
 - <b>Excel</b> 
-- <b>Tableau</b>
 
 
 <h2>Walk-through:</h2>
