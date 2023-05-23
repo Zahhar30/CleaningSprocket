@@ -17,11 +17,11 @@ This projects goal is specify which of the 1000 customer should be targeted by t
 <h2>Walk-through:</h2>
 
 <p align="center">
-Identify data quality issues in the data set : <br/>
+Identify data quality issues in the datasets : <br/>
 <img src="https://i.imgur.com/z6HOGCz.png" height="80%" width="80%" alt="Cleaning Data"/>
 <br />
 <br />
-Unionize all data sets into transaction sheet :  <br/>
+Unionize all datasets into transaction sheet :  <br/>
 <img src="https://i.imgur.com/xkVSItG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
