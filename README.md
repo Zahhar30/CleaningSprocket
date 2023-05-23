@@ -18,7 +18,7 @@ This projects goal is specify which of the 1000 customer should be targeted by t
 
 <p align="center">
 Identify data quality issues in the data set : <br/>
-<img src="https://imgur.com/a/lXWOvN6.png" height="80%" width="80%" alt="Cleaning Data"/>
+<img src="https://i.imgur.com/HZNc8Sm.png" height="80%" width="80%" alt="Cleaning Data"/>
 <br />
 <br />
 Select the disk:  <br/>
