@@ -1,4 +1,4 @@
-<h1>Sprocket Central part 1- Data Cleaning </h1>
+<h1>Sprocket Central part 1- Data Exploration & Cleaning </h1>
 
 
 
@@ -21,28 +21,18 @@ Identify data quality issues in the datasets : <br/>
 <img src="https://i.imgur.com/z6HOGCz.png" height="80%" width="80%" alt="Cleaning Data"/>
 <br />
 <br />
-Unionize all datasets into transaction sheet :  <br/>
-<img src="https://i.imgur.com/xkVSItG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Clean the datasets:  <br/>
+<img src="https://i.imgur.com/exaeQt4.png" height="80%" width="80%" alt="Cleaning Data"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Extract the Customers' demographic & Address datasets into transaction dataset using the Customer Id as the reference column for Vlookup :  <br/>
+<img src="https://i.imgur.com/xkVSItG.png" height="80%" width="80%" alt="Cleaning Data"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Utilize pivot table to make a statistical analysis from the combined dataset : <br/>
+<img src="https://i.imgur.com/Lt3JTMW.png" height="80%" width="80%" alt="Cleaning Data"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
