@@ -3,14 +3,17 @@
 
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+This project is a virtual internship from KPMG AU via Forage. Sprocket Central Pty Ltd , a medium size bikes & cycling accessories organisation seek help to analyze its 3 datasets; Transactions data in past 3 months, Customer Demographic, and Customer Addressess; in order to optimise its marketing strategy. 
+The organization also has a new list of 1000 potential customers with their demographics and attributes. However, these customers do not have prior transaction history with the organisation .
+This projects goal is specify which of the 1000 customer should be targeted by the marketing team.
+
 <br />
 
 
 <h2>Tool Used</h2>
 
 - <b>Excel</b> 
-- <b>Diskpart</b>
+- <b>Tableau</b>
 
 
 <h2>Walk-through:</h2>
