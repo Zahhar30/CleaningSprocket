@@ -9,7 +9,6 @@ This projects goal is specify which of the 1000 customer should be targeted by t
 
 <br />
 
-
 <h2>Tool Used</h2>
 
 - <b>Excel</b> 
@@ -18,8 +17,8 @@ This projects goal is specify which of the 1000 customer should be targeted by t
 <h2>Walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Identify data quality issues in the data set : <br/>
+<img src="https://imgur.com/a/lXWOvN6.png" height="80%" width="80%" alt="Cleaning Data"/>
 <br />
 <br />
 Select the disk:  <br/>
